@@ -1,4 +1,4 @@
-# Playground Series S4E10
+# Loan Approval Prediction
 
 Welcome to the Playground Series S4E10 repository! This repository contains data and resources for the Kaggle competition focused on predicting loan approval status.
 
